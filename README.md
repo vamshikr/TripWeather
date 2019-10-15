@@ -20,7 +20,7 @@ pip install -r requirements.txt
 
 * Create an API Key for `api.forecast.io` from https://darksky.net/dev
 
-* Create an API Key for Google Maps from https://console.developers.google.com/
+* Create an API Key for using Goecoding and Direction APIs from https://console.developers.google.com/
 
 Export the API Keys as environment variables as shown below
 
